@@ -12,7 +12,7 @@ Usando Streams, crie uma lista de números e calcule a soma de todos os elemento
 ### 4. Filtrar nomes com mais de 5 caracteres ✅
 Dada uma lista de nomes, utilize um Stream para filtrar apenas os nomes que possuem mais de 5 caracteres.
 
-### 5. Listar quadrados dos números
+### 5. Listar quadrados dos números ✅
 Crie uma lista de inteiros e utilize um Stream para gerar uma nova lista com os quadrados dos números originais.
 
 ### 6. Encontrar o primeiro número maior que 10
