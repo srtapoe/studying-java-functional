@@ -1,9 +1,9 @@
 # Exercícios de Lambdas e Streams em Java
 
-### 1. Filtrando números pares
+### 1. Filtrando números pares ✅
 Crie uma lista de inteiros e utilize Streams para filtrar apenas os números pares dessa lista.
 
-### 2. Convertendo para maiúsculas
+### 2. Convertendo para maiúsculas ✅
 Dada uma lista de strings, use uma expressão Lambda para transformar todas as strings em maiúsculas.
 
 ### 3. Soma de números
