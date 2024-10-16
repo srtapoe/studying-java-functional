@@ -9,7 +9,7 @@ Dada uma lista de strings, use uma expressão Lambda para transformar todas as s
 ### 3. Soma de números ✅
 Usando Streams, crie uma lista de números e calcule a soma de todos os elementos.
 
-### 4. Filtrar nomes com mais de 5 caracteres
+### 4. Filtrar nomes com mais de 5 caracteres ✅
 Dada uma lista de nomes, utilize um Stream para filtrar apenas os nomes que possuem mais de 5 caracteres.
 
 ### 5. Listar quadrados dos números
