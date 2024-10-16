@@ -6,7 +6,7 @@ Crie uma lista de inteiros e utilize Streams para filtrar apenas os números par
 ### 2. Convertendo para maiúsculas ✅
 Dada uma lista de strings, use uma expressão Lambda para transformar todas as strings em maiúsculas.
 
-### 3. Soma de números
+### 3. Soma de números ✅
 Usando Streams, crie uma lista de números e calcule a soma de todos os elementos.
 
 ### 4. Filtrar nomes com mais de 5 caracteres
