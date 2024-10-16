@@ -1,6 +1,6 @@
 ## Let's go!🍃
 
-Willkommen ao meu repositório de estudos sobre Lamdas, Streams e Java Funcional! 🙋🏻‍♀️
+Willkommen ao meu repositório de estudos sobre Lambdas, Streams e Java Funcional! 🙋🏻‍♀️
 
 ## Estrutura do repositório 👩🏻‍💻
 
