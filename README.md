@@ -1,18 +1,17 @@
-## Getting Started
+## Let's go!🍃
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Willkommen ao meu repositório de estudos sobre Lambdas, Streams e Java Funcional! 🙋🏻‍♀️
 
-## Folder Structure
+## Estrutura do repositório 👩🏻‍💻
 
-The workspace contains two folders by default, where:
+O repositório tem 4 tópicos sendo abordados na prática:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `lambdas`: como mexo muito com legado, queria praticar mais as melhorias implantadas nas últimas versões do Javinha💁🏻‍♀️
+- `streams`: esses camaradinhas estão presentes nos projetos mais novos do Java e vire e mexe coloco nos meus projetos pessoais
+- `Java Funcional`: sempre gosto de estudar abordagens diferentes no desenvolvimento para não ficar presa apenas ao POO
+- `Vscode`: simmm, estou muito acostumada com o Ecossistema da Jetbrains, então quis "inovar", passar raiva, mexendo numa IDE híbrida
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Materiais de estudo 💽
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [Course - Learn Java Functional Programming with Lambdas & Streams](https://www.udemy.com/course/functional-programming-with-java/learn/lecture/16544466#overview);
+- [Desafios - Gerados pela minha solicitação ao ChatGPT](https://chatgpt.com/share/670f1cab-5724-800e-8534-cc17874e2a36);

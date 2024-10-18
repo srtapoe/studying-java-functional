@@ -15,7 +15,7 @@ Dada uma lista de nomes, utilize um Stream para filtrar apenas os nomes que poss
 ### 5. Listar quadrados dos números ✅
 Crie uma lista de inteiros e utilize um Stream para gerar uma nova lista com os quadrados dos números originais.
 
-### 6. Encontrar o primeiro número maior que 10
+### 6. Encontrar o primeiro número maior que 10 ✅
 Dada uma lista de inteiros, use Streams para encontrar o primeiro número que seja maior que 10.
 
 ### 7. Ordenar lista de strings
