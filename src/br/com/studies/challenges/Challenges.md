@@ -27,5 +27,5 @@ Dada uma lista de strings, utilize Streams para contar quantas delas começam co
 ### 9. Juntar nomes com vírgula ✅
 Dada uma lista de nomes, utilize um Stream para concatenar todos os nomes em uma única string, separados por vírgula.
 
-### 10. Multiplicar todos os números por 2
+### 10. Multiplicar todos os números por 2 ✅
 Crie uma lista de inteiros e utilize Streams para multiplicar todos os números por 2, gerando uma nova lista com os resultados.
