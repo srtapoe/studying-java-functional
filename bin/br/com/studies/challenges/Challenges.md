@@ -24,7 +24,7 @@ Crie uma lista de strings e utilize Streams para ordená-la em ordem alfabética
 ### 8. Contar strings que começam com a letra "A" ✅
 Dada uma lista de strings, utilize Streams para contar quantas delas começam com a letra "A".
 
-### 9. Juntar nomes com vírgula
+### 9. Juntar nomes com vírgula ✅
 Dada uma lista de nomes, utilize um Stream para concatenar todos os nomes em uma única string, separados por vírgula.
 
 ### 10. Multiplicar todos os números por 2
