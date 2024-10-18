@@ -17,7 +17,7 @@ public class Challenge10 {
     private static void doubleNumbers(List<Integer> numbers){
         numbers
             .stream()
-            .map(number -> number * 2)
+            .map(number -> Math.pow(number, 2))
             .forEach(System.out::println);
     }
 }
