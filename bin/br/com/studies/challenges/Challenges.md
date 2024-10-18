@@ -18,7 +18,7 @@ Crie uma lista de inteiros e utilize um Stream para gerar uma nova lista com os 
 ### 6. Encontrar o primeiro número maior que 10 ✅
 Dada uma lista de inteiros, use Streams para encontrar o primeiro número que seja maior que 10.
 
-### 7. Ordenar lista de strings
+### 7. Ordenar lista de strings ✅
 Crie uma lista de strings e utilize Streams para ordená-la em ordem alfabética.
 
 ### 8. Contar strings que começam com a letra "A"
