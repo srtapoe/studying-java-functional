@@ -21,7 +21,7 @@ Dada uma lista de inteiros, use Streams para encontrar o primeiro número que se
 ### 7. Ordenar lista de strings ✅
 Crie uma lista de strings e utilize Streams para ordená-la em ordem alfabética.
 
-### 8. Contar strings que começam com a letra "A"
+### 8. Contar strings que começam com a letra "A" ✅
 Dada uma lista de strings, utilize Streams para contar quantas delas começam com a letra "A".
 
 ### 9. Juntar nomes com vírgula
